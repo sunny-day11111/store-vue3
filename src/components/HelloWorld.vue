@@ -1,6 +1,6 @@
 <template>
   <h1 class="box">{{ msg }}11111111111</h1>
-  <div>{{mainStore.name}}</div>
+  <div>{{ mainStore.name }}</div>
   <p>
     See
     <code>README.md</code>
